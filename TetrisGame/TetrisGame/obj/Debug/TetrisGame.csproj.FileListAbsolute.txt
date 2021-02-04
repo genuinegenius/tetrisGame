@@ -1,0 +1,10 @@
+C:\Users\youtu\source\repos\TetrisGame\TetrisGame\bin\Debug\TetrisGame.exe.config
+C:\Users\youtu\source\repos\TetrisGame\TetrisGame\bin\Debug\TetrisGame.exe
+C:\Users\youtu\source\repos\TetrisGame\TetrisGame\bin\Debug\TetrisGame.pdb
+C:\Users\youtu\source\repos\TetrisGame\TetrisGame\obj\Debug\TetrisGame.Form1.resources
+C:\Users\youtu\source\repos\TetrisGame\TetrisGame\obj\Debug\TetrisGame.Properties.Resources.resources
+C:\Users\youtu\source\repos\TetrisGame\TetrisGame\obj\Debug\TetrisGame.csproj.GenerateResource.cache
+C:\Users\youtu\source\repos\TetrisGame\TetrisGame\obj\Debug\TetrisGame.csproj.CoreCompileInputs.cache
+C:\Users\youtu\source\repos\TetrisGame\TetrisGame\obj\Debug\TetrisGame.exe
+C:\Users\youtu\source\repos\TetrisGame\TetrisGame\obj\Debug\TetrisGame.pdb
+C:\Users\youtu\source\repos\TetrisGame\TetrisGame\obj\Debug\TetrisGame.csprojAssemblyReference.cache
